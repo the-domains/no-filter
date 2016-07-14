@@ -6,9 +6,9 @@ color:
   saturation: 0.6429893870372325
   rhythmicContrast: 0.03311594249680638
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: '#No Filter'
