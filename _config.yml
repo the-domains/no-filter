@@ -1,0 +1,14 @@
+layout_spectrum: 0.6475157798267901
+typography_spectrum: 0.6559917910490185
+color:
+  brandStrength: 0.6886686640791595
+  lightness: 0.7142917443998158
+  saturation: 0.6429893870372325
+  rhythmicContrast: 0.03311594249680638
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: '#No Filter'
